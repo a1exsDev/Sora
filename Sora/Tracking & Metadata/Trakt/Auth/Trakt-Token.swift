@@ -11,7 +11,7 @@ import Security
 class TraktToken {
     static let clientID = "6ec81bf19deb80fdfa25652eef101576ca6aaa0dc016d36079b2de413d71c369"
     static let clientSecret = "17cd92f71da3be9d755e2d8a6506fb3c3ecee19a247a6f0120ce2fb1f359850b"
-    static let redirectURI = "sora://trakt"
+    static let redirectURI = "livecontainer://open-web-page?url=c29yYTovL3RyYWt0"
     
     static let tokenEndpoint = "https://api.trakt.tv/oauth/token"
     static let serviceName = "me.cranci.sora.TraktToken"
