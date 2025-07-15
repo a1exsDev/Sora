@@ -9,7 +9,7 @@ import UIKit
 
 class AniListLogin {
     static let clientID = "19551"
-    static let redirectURI = "sora://anilist"
+    static let redirectURI = "livecontainer://open-web-page?url=c29yYTovL2FuaWxpc3Q="
     
     static let authorizationEndpoint = "https://anilist.co/api/v2/oauth/authorize"
     
