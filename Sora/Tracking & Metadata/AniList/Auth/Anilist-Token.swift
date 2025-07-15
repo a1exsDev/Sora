@@ -11,7 +11,7 @@ import Security
 class AniListToken {
     static let clientID = "19551"
     static let clientSecret = "fk8EgkyFbXk95TbPwLYQLaiMaNIryMpDBwJsPXoX"
-    static let redirectURI = "sora://anilist"
+    static let redirectURI = "livecontainer://open-web-page?url=c29yYTovL2FuaWxpc3Q="
     
     static let tokenEndpoint = "https://anilist.co/api/v2/oauth/token"
     static let serviceName = "me.cranci.sora.AniListToken"
