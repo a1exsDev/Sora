@@ -9,7 +9,7 @@ import UIKit
 
 class TraktLogin {
     static let clientID = "6ec81bf19deb80fdfa25652eef101576ca6aaa0dc016d36079b2de413d71c369"
-    static let redirectURI = "sora://trakt"
+    static let redirectURI = "livecontainer://open-web-page?url=c29yYTovL3RyYWt0"
     
     static let authorizationEndpoint = "https://trakt.tv/oauth/authorize"
     
